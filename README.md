@@ -1,6 +1,6 @@
 <h1 align="left">My Machine Learning Subject Repository</h1>
 
-<img align="right" height="150" src="https://tenor.com/view/dr-stone-dcst-xeno-dr-stone-dr-xeno-xeno-houston-wingfield-gif-3628957361103382325"/>
+<img align="right" height="150" src="xeno.gif"/>
 
 ###
 
